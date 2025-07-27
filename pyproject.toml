@@ -12,6 +12,6 @@ dependencies = [
     "pydantic",
     "transformers",
     "torch",
-    "ipykernel"
-
+    "ipykernel",
+    "dotenv>=0.9.9",
 ]
