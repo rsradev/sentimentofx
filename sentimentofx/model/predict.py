@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-
 login(token=os.getenv("HUGGINGFACE_TOKEN"))
 
 sentiment_pipeline = pipeline(
