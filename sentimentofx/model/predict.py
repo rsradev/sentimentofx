@@ -1,9 +1,6 @@
 from transformers import pipeline
 from huggingface_hub import login
 
-
-
-
 login(token="")
 
 
