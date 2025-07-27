@@ -11,5 +11,7 @@ dependencies = [
     "psycopg2-binary",
     "pydantic",
     "transformers",
-    "torch"
+    "torch",
+    "ipykernel"
+
 ]
