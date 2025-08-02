@@ -1,0 +1,10 @@
+image:
+  repository: your-dockerhub/sentimentofx
+  tag: latest
+
+env:
+  HUGGINGFACE_TOKEN: "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"
+
+service:
+  type: LoadBalancer
+  port: 80

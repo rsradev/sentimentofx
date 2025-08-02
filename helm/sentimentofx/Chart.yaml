@@ -1,0 +1,5 @@
+apiVersion: v2
+name: sentimentofx
+description: A FastAPI app for sentiment analysis using Hugging Face
+version: 0.1.0
+appVersion: "1.0.0"
